@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451593979783",
+    "firebase_url": "https://personalvet-af400.firebaseio.com",
+    "project_id": "personalvet-af400",
+    "storage_bucket": "personalvet-af400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451593979783:android:edde80c48b62c49e7af522",
+        "android_client_info": {
+          "package_name": "net.azarquiel.personalvet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451593979783-4f4cgf5vm8isifig2sm5dhomkjg7ovm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.azarquiel.personalvet",
+            "certificate_hash": "704920201c716ba4f724c38acb517e80a83dda4a"
+          }
+        },
+        {
+          "client_id": "451593979783-jngn7pg9osc04i1lk18o1qjdi2d06hm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVhjqSCeGYcsH1D02_UlXrBU_kR8nD50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451593979783-jngn7pg9osc04i1lk18o1qjdi2d06hm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
